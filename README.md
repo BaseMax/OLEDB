@@ -15,6 +15,9 @@ OlED db = new OlED();
 - [x] get count rows
 - [x] get rows values
 - [x] get rows and fetch for DataGridView
+- [ ] delete
+- [ ] insert
+- [ ] only execute a query
 
 ### Sample
 ```
