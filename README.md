@@ -3,8 +3,6 @@ Simple and compact class library for working with the MS OLE Database.
 
 OLEDB = OLE DB = Object Linking + Embedding Database
 
-
-
 ### Using 
 ```
 OlED db = new OlED();
