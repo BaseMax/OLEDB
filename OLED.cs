@@ -12,7 +12,6 @@ using System.Linq;
 using System.Text;
 using System.Data.OleDb;
 using System.Data;
-
 class OlED
 {
     public void connect(string query)
